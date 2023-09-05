@@ -5,8 +5,7 @@
     "prettier",
     "plugin:import/recommended",
     "plugin:@typescript-eslint/recommended",
-    "plugin:sort/recommended",
-    "plugin:storybook/recommended"
+    "plugin:sort/recommended"
   ],
   "plugins": ["import", "sort", "@typescript-eslint"],
   "rules": {
