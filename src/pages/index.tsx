@@ -4,6 +4,7 @@ const IndexPage: NextPage = () => {
   return (
     <div>
       <div className="text-red-500">Hello world</div>
+      <div>sub</div>
     </div>
   );
 };
